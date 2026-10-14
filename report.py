@@ -13,7 +13,7 @@ def read_json(path):
 def render():
 	r=read_json(ROOT/'results/results.json')
 	s=read_json(ROOT/'results/synthetic.json')
-	parts=['# Initial alternating-glyph investigation — 14 October 2026','',
+	parts=['<!-- SPDX-License-Identifier: CC-BY-4.0 -->', '', '# Initial alternating-glyph investigation — 14 October 2026','',
 		'**Conclusion: alternating deletion preserves more serial structure than matched random deletion, but this does not identify a meaningless-padding stream. Both offsets retain structure, and a synthetic stream containing no inserted padding produces the same direction of effect. No decipherment or language identification was attempted or obtained.**','',
 		'All six masks were evaluated under two deletion controls, with 199 replicates per control, on six dataset/configuration choices (14,328 random deletions in total). The experiment is exploratory; the endpoint was fixed after a parser smoke run. See [the protocol](protocol.md) for assumptions and [sources](sources.md) for provenance and the bounded literature search.','',
 		'## Corpus audit','',
@@ -54,7 +54,7 @@ def render():
 		'## Preserved evidence and review','',
 		'Original datasets are stored losslessly as gzip archives with uncompressed SHA-256 hashes in the manifest. Derived locus/word/glyph JSON, all 36 retained streams, seeded control metrics and calibration results are archived alongside reproducible code. Validation checks the parser/reset contracts, accelerated metrics against scalar examples, source hashes, derived/transformed output agreement and seeded replicate replay. No hosted workflow or unattended job was enabled.','',
 		'For the next investigation, prioritise an image-grounded audit of the motivating triple runs and a calibrated comparison that preserves ordinary lag-two/word-position structure, before trying plaintext guesses. True gap-length and original ordering sensitivity, followed by Currier/quire stratification, would tighten the continuous model. These are recommendations, not completed work or permission to select more tasks.','']
-	(ROOT/'docs/initial-results.md').write_text('\n'.join(parts))
+	(ROOT/'docs/initial-results.md').write_text('\n'.join(parts)+"\n## Licence and attribution\n\nThis report's original prose, tables and presentation are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit Voynich Null Cipher (VOY), a Last Attempt project, link to [the repository](https://github.com/Last-Attempt/Voynich-Null-Cipher), and indicate modifications. Underlying CC0 transcriptions and bare numerical facts remain unrestricted by this grant. See [LICENSE-SCOPE.md](../LICENSE-SCOPE.md) for the complete material mapping.\n")
 
 
 if __name__=='__main__':

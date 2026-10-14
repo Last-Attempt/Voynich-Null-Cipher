@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Voynich Null Cipher — VOY
 
 Read [AGENTS.md](AGENTS.md) and [docs/protocol.md](docs/protocol.md) before interpreting results or changing experiments. The owning project is `VOYNICH_NULL_CIPHER` in Last Attempt's registry; `VOY` is its short alias. This is research, not a game, so no game number is assigned.

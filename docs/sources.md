@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Sources and scope of the literature check
 
 René Zandbergen's [transliteration overview](https://www.voynich.nu/transcr.html), [STA explanation and downloads](https://www.voynich.nu/extra/sta.html) and [IVTFF 2.0 specification](https://www.voynich.nu/software/ivtt/IVTFF_format.pdf) define the files and parsing conventions used here. Original files, headers, retrieval date, byte sizes and SHA-256 hashes are preserved in [the manifest](../data/manifest.json). ZL3b identifies version 3b dated 13 May 2025; RF1b is the combined reference rendering, and IT2a is the converted older Takahashi rendering. These are transcription hypotheses, not recovered plaintext.
