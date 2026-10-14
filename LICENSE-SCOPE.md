@@ -26,4 +26,4 @@ Credit **Voynich Null Cipher (VOY), a Last Attempt project**, link to [the repos
 
 Software distributions must include the complete MS-PL text and retain existing notices under its terms. Research/documentation distributions must retain the CC BY notice and attribution information for covered original contributions; retain the separate CC0 provenance for transcription material. The canonical CC BY legal text is preserved verbatim from the SPDX licence list in `LICENSES/CC-BY-4.0.txt`.
 
-The repository remains private until the product owner explicitly authorises a visibility change. These licence grants do not themselves authorise making it public or publishing a release. External dependencies remain under their own licences and are not vendored here.
+Repository visibility changes and release publication require separate product-owner authorisation; these licence grants do not themselves provide it. External dependencies remain under their own licences and are not vendored here.

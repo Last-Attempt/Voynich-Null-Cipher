@@ -29,6 +29,6 @@ Governance entry points are [AGENTS.md](AGENTS.md) and [START-HERE.md](START-HER
 
 ## Licence
 
-Original code and software configuration are licensed under the [Microsoft Public License (MS-PL)](LICENSE), with the covered files and exclusions explained in [LICENSE-SCOPE.md](LICENSE-SCOPE.md). Our original documentation, research presentation, result compilations and synthetic examples use **CC BY 4.0**. Upstream transcriptions and their mechanical transformations remain **CC0**. Bare facts and numerical values are not made subject to new attribution restrictions. External dependencies retain their own licences. The repository remains private until the product owner explicitly authorises otherwise.
+Original code and software configuration are licensed under the [Microsoft Public License (MS-PL)](LICENSE), with the covered files and exclusions explained in [LICENSE-SCOPE.md](LICENSE-SCOPE.md). Our original documentation, research presentation, result compilations and synthetic examples use **CC BY 4.0**. Upstream transcriptions and their mechanical transformations remain **CC0**. Bare facts and numerical values are not made subject to new attribution restrictions. External dependencies retain their own licences.
 
 The four upstream transcription datasets are available under **CC0**, as verified in [docs/dataset-rights.md](docs/dataset-rights.md) and recorded per file in the manifest. Their permissive terms are separate from our MS-PL software and CC BY original contributions; documenting them does not change repository visibility.

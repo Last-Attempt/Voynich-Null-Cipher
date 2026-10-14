@@ -2,7 +2,7 @@
 
 # Dataset redistribution audit
 
-Checked on 14 October 2026. **All four collected transcription files are covered by voynich.nu's explicit CC0 statement.** They are permissively reusable, including modification, redistribution and commercial use, under CC0 rather than BSD. The code's MS-PL licence is separate. The repository remains private; this audit does not publish it or create a release.
+Checked on 14 October 2026. **All four collected transcription files are covered by voynich.nu's explicit CC0 statement.** They are permissively reusable, including modification, redistribution and commercial use, under CC0 rather than BSD. The code's MS-PL licence is separate. This audit records licence evidence; it does not itself change repository visibility or create a release.
 
 ## Publisher evidence
 
