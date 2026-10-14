@@ -28,3 +28,5 @@ Governance entry points are [AGENTS.md](AGENTS.md) and [START-HERE.md](START-HER
 ## Licence
 
 Original code and software configuration are licensed under the [Microsoft Public License (MS-PL)](LICENSE), with the covered files and exclusions explained in [LICENSE-SCOPE.md](LICENSE-SCOPE.md). Manuscript datasets, derived transcription files, result archives and research documentation are outside this software licence. External dependencies retain their own licences. The repository remains private until the product owner explicitly authorises otherwise.
+
+The four upstream transcription datasets are available under **CC0**, as verified in [docs/dataset-rights.md](docs/dataset-rights.md) and recorded per file in the manifest. Their permissive terms are separate from MS-PL; documenting them does not change repository visibility.
