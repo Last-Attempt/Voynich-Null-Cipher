@@ -1,0 +1,43 @@
+{
+  "sources": [
+    {
+      "path": "data/raw/RF1b.txt.gz",
+      "url": "https://www.voynich.nu/data/sta/RF1b.txt",
+      "uncompressed_bytes": 463638,
+      "sha256": "81c331b7d8e76761e27d350c3b37ccfbe192848e6c8a227bcb5d40fb29259b17",
+      "header": "#=IVTFF STA1 2.0 D 9",
+      "retrieved_date": "2026-10-14"
+    },
+    {
+      "path": "data/raw/ZL3b.txt.gz",
+      "url": "https://www.voynich.nu/data/sta/ZL3b.txt",
+      "uncompressed_bytes": 472861,
+      "sha256": "8438ba1c45f47fe1d06b5262cbcdf60ce69158a0edbd4dd802612896f3217e2a",
+      "header": "#=IVTFF STA1 2.0 M 5",
+      "retrieved_date": "2026-10-14"
+    },
+    {
+      "path": "data/raw/IT2a.txt.gz",
+      "url": "https://www.voynich.nu/data/sta/IT2a.txt",
+      "uncompressed_bytes": 460923,
+      "sha256": "215f2d05690828c00bd4ae00d6201df31050adcd81601343b142ae91b9dfeee4",
+      "header": "#=IVTFF STA1 2.0 M 3",
+      "retrieved_date": "2026-10-14"
+    },
+    {
+      "path": "data/raw/ZL3b-n.txt.gz",
+      "url": "https://www.voynich.nu/data/ZL3b-n.txt",
+      "uncompressed_bytes": 411671,
+      "sha256": "bf5b6d4ac1e3a51b1847a9c388318d609020441ccd56984c901c32b09beccafc",
+      "header": "#=IVTFF Eva- 2.0 M 5",
+      "retrieved_date": "2026-10-14"
+    }
+  ],
+  "rights": "Source files retain their authors\u2019 rights; no blanket dataset licence is granted by this project. Private research preservation only.",
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "numpy": "2.3.5",
+    "zlib": "1.3.2",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39"
+  }
+}
