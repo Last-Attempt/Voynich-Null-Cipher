@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MS-PL
 """Lossless deterministic gzip preservation of data/results; no network calls."""
 import gzip
 from pathlib import Path

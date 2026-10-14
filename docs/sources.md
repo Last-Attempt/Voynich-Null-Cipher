@@ -6,4 +6,4 @@ The initial targeted search on 14 October 2026 found related null-removal experi
 
 Search also surfaced a recent preprint, [Rozanova and Temerev, A Glyph Is Not a Letter, a Token Is Not a Word, a Space Is Not a Space](https://arxiv.org/abs/2608.17096). It is a lead for subsequent review, not a replicated finding of VOY. No published study's results are substituted for our calculations.
 
-Source files retain their authors' rights. This private repository preserves them for the authorised research, without claiming an open dataset licence or permission to redistribute them publicly. No software licence has been selected for new project code.
+Source files retain their authors' rights. This private repository preserves them for the authorised research, without claiming an open dataset licence or permission to redistribute them publicly. Original project software is licensed under MS-PL; [the licence scope](../LICENSE-SCOPE.md) excludes these source files, derived corpora, results and research documentation.

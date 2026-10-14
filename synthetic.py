@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MS-PL
 """Calibration: an inserted-noise toy and a structured stream with no nulls."""
 import json
 import numpy as np

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MS-PL
 import random
 import sys
 from pathlib import Path
