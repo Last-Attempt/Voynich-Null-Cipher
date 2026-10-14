@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MS-PL
 """VOY alternating-null experiment. Python 3.10+ and NumPy."""
 import argparse
 from collections import Counter

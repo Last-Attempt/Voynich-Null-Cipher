@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MS-PL
 """Render the initial report from preserved calculated results."""
 import gzip
 import json

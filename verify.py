@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MS-PL
 """Read-only verification of hashes, derived data and seeded scientific results."""
 import gzip
 import hashlib

@@ -23,4 +23,8 @@ On Windows use `.venv/Scripts/python.exe` instead. Analysis takes several minute
 
 `data/raw/*.txt.gz` preserves original file bytes. Read one with Python's `gzip.open(path, 'rt')`, or extract it with `gzip -dc data/raw/RF1b.txt.gz`. `data/manifest.json` records uncompressed hashes and retrieval provenance. `data/derived/*.json.gz` preserves loci, page, language and tokenised words. `results/*_0.txt.gz` and `*_1.txt.gz` contain retained streams: one original word per row, tokens separated by spaces, with empty words retained as blank rows. The derived corpus supplies the original line grouping. `results/results.json.gz` contains every measurement and control replicate. `results/synthetic.json.gz` contains positive calibration and a no-padding counterexample.
 
-Governance entry points are [AGENTS.md](AGENTS.md) and [START-HERE.md](START-HERE.md). Research changes target `main` through review; repository creation and registry acceptance are separate from accepting scientific conclusions. Source rights are retained; this project grants no blanket dataset or code licence.
+Governance entry points are [AGENTS.md](AGENTS.md) and [START-HERE.md](START-HERE.md). Research changes target `main` through review; repository creation and registry acceptance are separate from accepting scientific conclusions. Source rights are retained; dataset rights are separate from the software licence.
+
+## Licence
+
+Original code and software configuration are licensed under the [Microsoft Public License (MS-PL)](LICENSE), with the covered files and exclusions explained in [LICENSE-SCOPE.md](LICENSE-SCOPE.md). Manuscript datasets, derived transcription files, result archives and research documentation are outside this software licence. External dependencies retain their own licences. The repository remains private until the product owner explicitly authorises otherwise.
