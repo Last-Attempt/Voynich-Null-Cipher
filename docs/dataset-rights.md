@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Dataset redistribution audit
 
 Checked on 14 October 2026. **All four collected transcription files are covered by voynich.nu's explicit CC0 statement.** They are permissively reusable, including modification, redistribution and commercial use, under CC0 rather than BSD. The code's MS-PL licence is separate. The repository remains private; this audit does not publish it or create a release.
@@ -25,6 +27,6 @@ These attributions describe provenance; they do not assert that every listed con
 
 [Creative Commons' CC0 deed](https://creativecommons.org/publicdomain/zero/1.0/) expressly permits copying, modification and distribution, including commercial use, without asking permission. The operative [legal code](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en) and a verbatim [CC0-1.0 text](../LICENSES/CC0-1.0.txt) are provided for reference. CC0 is a public-domain dedication with fallback provisions, not a BSD licence and not MS-PL.
 
-Tokenisation, compression and alternate-glyph removal do not impose new restrictions on the underlying CC0 transcription data in `data/derived/` and the retained transcription streams in `results/`. This audit does not assign a new licence to independently authored research documentation, software, synthetic examples or numerical analysis results. Those materials stay outside the upstream transcription grant and retain their separately documented status.
+Tokenisation, compression and alternate-glyph removal do not impose new restrictions on the underlying CC0 transcription data in `data/derived/` and the retained transcription streams in `results/`. Original research documentation, presentation, result compilations and synthetic examples now use CC BY 4.0 under [LICENSE-SCOPE.md](../LICENSE-SCOPE.md). Code remains MS-PL. Those grants cover only original project contributions and do not restrict the underlying CC0 transcription material or bare numerical facts.
 
 The site's font conditions are distinct from its transcription terms; no font is part of these four datasets. Do not apply the CC0 statement to every website asset. No dataset replacement or permission email is needed for the four verified transcription sources. This finding supersedes the initial, unverified “private research preservation only” metadata and the earlier statement that permissive terms had not been established.

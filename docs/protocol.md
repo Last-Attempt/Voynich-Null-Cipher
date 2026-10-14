@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Alternating null-glyph hypothesis
 
 The product owner proposed that every second manuscript glyph is meaningless padding, with repeated triples as one motivation. The authorised experiment tests continuous, per-line and per-word alternation at both offsets against random deletion. This protocol documents exploratory choices made during the initial run; it is not a prospectively preregistered study. A parser smoke run preceded the choice of the primary endpoint.
